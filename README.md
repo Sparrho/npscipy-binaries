@@ -4,7 +4,7 @@ npscipy-binaries
 Compiled packages for NumPy and SciPy. Currently the following versions are
 supported:
 
-  * NumPy 1.8.1
+  * NumPy 1.8.1 - 1.8.2
   * SciPy 0.14.0
 
 These packages were compiled on a virtual machine that matched Heroku's
